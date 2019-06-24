@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/iamneeeraj/neerajkk/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iamneeeraj/neerajkk/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!doctype html>
+<html>
+<head> <title>About Myself</title></head>
+<header>Something About Myself</header>
+<link rel="stylesheet"href="s1.css">
+ <body><h3>NEERAJ KUMAR</h3>
+<img src="Neeraj kumar.JPG" >
+<p>Hello Guyz! I am a smart guy who is very talanted and <br> today I am learning how to create webpages.</p>
+<p>Isn't that amazing! I would be very happy if  you look at my webpages.</p>
+<p> And since I am new to these technical things I think I will need your full cooperation and support which I believe I will get from your side.</p>
+<p>As i am working with HTML, I find it quite interesting, Even you should try this
+so what are you waiting for? just go and give yourself a try!</p>
+<ol>
+<li>bat</li>
+<li>ball</li>
+<ul>
+<li>golfball</li>
+<li>baseball</li>
+<li>basketball</li>
+<li>football</li>
+</ul>
+<li>racket</li>
+<li>chessboard</li>
+</ol>
+<p id="myid">Contact &lt iamneeeraj@gmail.com &gt for further details.</p>
+</body>
+</html>
